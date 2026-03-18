@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
+jspm_packages/
+venv/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+
+# Build/Output
+dist/
+build/
+*.log
+
+# Env
+.env
+.env.*
